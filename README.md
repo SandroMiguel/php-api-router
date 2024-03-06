@@ -14,7 +14,7 @@ PhpApiRouter is a lightweight PHP router for building APIs, used in my projects.
 You can install PhpApiRouter via Composer. Run the following command in your terminal:
 
 ```bash
-composer require sandromiguel/phpapirouter
+composer require sandromiguel/php-api-router
 ```
 
 ## Contributing
