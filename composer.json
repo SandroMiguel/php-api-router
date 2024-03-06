@@ -1,13 +1,11 @@
 {
-    "name": "sandromiguel/php-sceleto",
-    "description": "Sample of PHP file structure.",
-    "homepage": "https://github.com/SandroMiguel/php-sceleto",
+    "name": "sandromiguel/php-api-router",
+    "description": "Lightweight PHP router for building APIs.",
+    "homepage": "https://github.com/SandroMiguel/php-api-router",
     "keywords": [
         "php",
-        "directory",
-        "structure",
-        "skeleton",
-        "phpunit"
+        "api",
+        "router"
     ],
     "type": "project",
     "license": "MIT",
@@ -20,11 +18,11 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/SandroMiguel/php-sceleto/issues"
+        "issues": "https://github.com/SandroMiguel/php-api-router/issues"
     },
     "autoload": {
         "psr-4": {
-            "PhpSceleto\\": "src/"
+            "PhpApiRouter\\": "src/"
         }
     },
     "config": {
